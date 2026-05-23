@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surya123sankhla-lang.github.io/aiims-junior-admin-cre-typing-test/sitemap.xml
